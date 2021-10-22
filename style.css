@@ -37,3 +37,32 @@ body{
 .desh img{
     width: 600px;
 }
+
+#middle{
+    display: flex;
+    background-image: url(shapes/baisab.jpg);
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.majkhan{
+    width: 50%;
+    padding: 5%;
+}
+.majkhan img{
+    width: 600px;
+}
+#hero{
+    font-size: 30px;
+    color: lightslategray;
+}
+#detals{
+    font-size: 20px;
+    margin-bottom: 10%;
+}
+.me{
+
+    padding: 10px 40px;
+    background-image: linear-gradient(red, yellow);;
+    border-radius: 15px;
+}
