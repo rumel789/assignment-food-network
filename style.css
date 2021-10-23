@@ -39,10 +39,12 @@ body{
 }
 
 #middle{
+    margin-top: 50px;
     display: flex;
     background-image: url(shapes/baisab.jpg);
     background-repeat: no-repeat;
     height: 535px;
+    margin-bottom: 50px;
 }
 
 .majkhan{
@@ -73,6 +75,7 @@ body{
 }
 #ace{
     text-align: center;
+    margin-bottom: 20px;
 }
 .header-part{
     display: flex;
