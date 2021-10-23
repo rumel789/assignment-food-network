@@ -42,7 +42,7 @@ body{
     display: flex;
     background-image: url(shapes/baisab.jpg);
     background-repeat: no-repeat;
-    height: 450px;
+    height: 535px;
 }
 
 .majkhan{
@@ -50,7 +50,7 @@ body{
     padding: 5%;
 }
 .majkhan img{
-    width: 600px;
+    width: 700px;
 }
 #hero{
     font-size: 30px;
@@ -65,4 +65,117 @@ body{
     padding: 10px 40px;
     background-image: linear-gradient(red, yellow);;
     border-radius: 15px;
+}
+#nai{
+    color: lightslategray;
+    text-align: center;
+    size: 20px;
+}
+#ace{
+    text-align: center;
+}
+.header-part{
+    display: flex;
+}
+.header-part div{
+box-shadow: 5px 5px 5px;
+height: 80%;
+width: 250px, 250px, 250px;
+}
+#header1 img{
+    width: 33.3%;
+   }
+#header1{margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+    box-shadow: 1px;
+    border-radius: 15px;
+
+    box-shadow: 5px;
+    border-radius: 15px;
+    padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  height: 300px;
+}
+
+#lover1 img{
+
+    width: 33.3%;
+    padding-left: 20px;
+}
+#lover1{
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+
+    box-shadow: rgb(197, 210, 228);
+    box-shadow: linen;
+    border-radius: 15px;
+    padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  height: 300px;
+}
+
+#favorite1{ margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+
+    box-shadow: rgb(197, 210, 228);
+    box-shadow: linen;
+    border-radius: 15px;
+    padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  height: 300px;
+
+}
+#favorite1 img{
+    width: 33.3%;
+    
+    padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+}
+#i4u{
+    display: flex;
+    text-align: center;
+    
+    
+    
+} 
+.noya{display: flex;
+    width: 50%;
+}
+.myroom{
+    box-shadow: rgba(159, 172, 185, 0.74);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    
+    margin-right: 30px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+footer{
+    text-align:center;
+    background-color: pink;
+    height: 150px;
+    padding-top: 5px;
+    }
+#hlw{
+    color: orangered;
 }
